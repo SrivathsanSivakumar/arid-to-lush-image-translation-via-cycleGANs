@@ -1,2 +1,2 @@
-# arid-to-lush-image-translation-via-cycleGANs
-Translation of Arid Landscape Images to Lush Landscape Images and Vice Versa using CycleGANs
+# body-scan-image-translation-using-cycleGANs
+Translation of MRI to CT Scans and Vice Versa using CycleGANs
